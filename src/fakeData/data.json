@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "course_name": "Python for Everybody Specialization",
+        "instructor_name": "Kort Buckam",
+        "rating": 2.6,
+        "price": 121.07,
+        "number_of_student": 36738,
+        "level": 5,
+        "url": "https://via.placeholder.com/600/92c952",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    },
+    {
+        "id": 2,
+        "course_name": "Google IT Automation with Python Professional Certificate",
+        "instructor_name": "Boony Whitwam",
+        "rating": 1.2,
+        "price": 110.04,
+        "number_of_student": 45182,
+        "level": 3,
+        "url": "https://via.placeholder.com/600/771796",
+        "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    },
+    {
+        "id": 3,
+        "course_name": "Python 3 Programming Specialization",
+        "instructor_name": "Eve Fernez",
+        "rating": 4.7,
+        "price": 71.06,
+        "number_of_student": 46075,
+        "level": 3,
+        "url": "https://via.placeholder.com/600/24f355",
+        "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    },
+    {
+        "id": 4,
+        "course_name": "Web Development",
+        "instructor_name": "Janna Minette",
+        "rating": 4.8,
+        "price": 107.2,
+        "number_of_student": 15197,
+        "level": 5,
+        "url": "https://via.placeholder.com/600/d32776",
+        "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    },
+    {
+        "id": 5,
+        "course_name": "Intermediate JavaScript",
+        "instructor_name": "The Web Developer Bootcamp",
+        "rating": 4.2,
+        "price": 140.69,
+        "number_of_student": 35595,
+        "level": 1,
+        "url": "https://via.placeholder.com/600/f66b97",
+        "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    },
+    {
+        "id": 6,
+        "course_name": "JavaScript: Understanding the Weird Parts",
+        "instructor_name": "Introduction to HTML and CSS",
+        "rating": 1.7,
+        "price": 125.35,
+        "number_of_student": 48883,
+        "level": 2,
+        "url": "https://via.placeholder.com/600/56a8c2",
+        "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    },
+    {
+        "id": 7,
+        "course_name": "JavaScript Basics",
+        "instructor_name": "Wilhelmine Vaszoly",
+        "rating": 2.1,
+        "price": 24.98,
+        "number_of_student": 28976,
+        "level": 4,
+        "url": "https://via.placeholder.com/600/b0f7cc",
+        "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+    },
+    {
+        "id": 8,
+        "course_name": "CSS Essentials: Getting Started with CSS Grid",
+        "instructor_name": "Letisha Brownlea",
+        "rating": 4.9,
+        "price": 125.47,
+        "number_of_student": 34437,
+        "level": 4,
+        "url": "https://via.placeholder.com/600/54176f",
+        "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+    },
+    {
+        "id": 9,
+        "course_name": "Become a Web Developer",
+        "instructor_name": "Veronica Ivanuschka",
+        "rating": 5.0,
+        "price": 80.69,
+        "number_of_student": 6181,
+        "level": 3,
+        "url": "https://via.placeholder.com/600/51aa97",
+        "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+    },
+    {
+        "id": 10,
+        "course_name": "Computer Programming by Khan Academy",
+        "instructor_name": "Rowland Zaczek",
+        "rating": 1.6,
+        "price": 148.46,
+        "number_of_student": 21917,
+        "level": 3,
+        "url": "https://via.placeholder.com/600/810b14",
+        "thumbnailUrl": "https://via.placeholder.com/150/810b14"
+    },
+    {
+        "id": 11,
+        "course_name": "Introduction to Computer Science and Programming Using Python",
+        "instructor_name": "Jacquette Figurski",
+        "rating": 4.8,
+        "price": 105.77,
+        "number_of_student": 12299,
+        "level": 2,
+        "url": "https://via.placeholder.com/600/1ee8a4",
+        "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
+    },
+    {
+        "id": 12,
+        "course_name": "Programming for Everybody by Coursera",
+        "instructor_name": "Verena McCloud",
+        "rating": 1.0,
+        "price": 70.13,
+        "number_of_student": 46156,
+        "level": 5,
+        "url": "https://via.placeholder.com/600/66b7d2",
+        "thumbnailUrl": "https://via.placeholder.com/150/66b7d2"
+    },
+    {
+        "id": 13,
+        "course_name": "Learn Web Development by Mozilla",
+        "instructor_name": "Ula Sciacovelli",
+        "rating": 1.6,
+        "price": 13.09,
+        "number_of_student": 3322,
+        "level": 5,
+        "url": "https://via.placeholder.com/600/197d29",
+        "thumbnailUrl": "https://via.placeholder.com/150/197d29"
+    },
+    {
+        "id": 14,
+        "course_name": "Web Fundamentals",
+        "instructor_name": "Aaron Ambrogioli",
+        "rating": 3.9,
+        "price": 62.03,
+        "number_of_student": 45028,
+        "level": 1,
+        "url": "https://via.placeholder.com/600/61a65",
+        "thumbnailUrl": "https://via.placeholder.com/150/61a65"
+    },
+    {
+        "id": 15,
+        "course_name": "The Web Developer Bootcamp",
+        "instructor_name": "Lynnet Murton",
+        "rating": 5.0,
+        "price": 58.06,
+        "number_of_student": 36151,
+        "level": 2,
+        "url": "https://via.placeholder.com/600/f9cee5",
+        "thumbnailUrl": "https://via.placeholder.com/150/f9cee5"
+    },
+    {
+        "id": 16,
+        "course_name": "Modern HTML + CSS for Beginners",
+        "instructor_name": "Hanny Nisbet",
+        "rating": 1.3,
+        "price": 91.99,
+        "number_of_student": 13682,
+        "level": 5,
+        "url": "https://via.placeholder.com/600/fdf73e",
+        "thumbnailUrl": "https://via.placeholder.com/150/fdf73e"
+    },
+    {
+        "id": 17,
+        "course_name": "The Web Developer Bootcamp",
+        "instructor_name": "Agace Koop",
+        "rating": 2.2,
+        "price": 9.72,
+        "number_of_student": 32178,
+        "level": 3,
+        "url": "https://via.placeholder.com/600/9c184f",
+        "thumbnailUrl": "https://via.placeholder.com/150/9c184f"
+    },
+    {
+        "id": 18,
+        "course_name": "Computer Science 50’s: Introduction to Computer Science",
+        "instructor_name": "Ruy Santoro",
+        "rating": 3.0,
+        "price": 104.99,
+        "number_of_student": 33495,
+        "level": 5,
+        "url": "https://via.placeholder.com/600/1fe46f",
+        "thumbnailUrl": "https://via.placeholder.com/150/1fe46f"
+    },
+    {
+        "id": 19,
+        "course_name": "Modern HTML + CSS for Beginners",
+        "instructor_name": "Peterus Espin",
+        "rating": 2.5,
+        "price": 84.49,
+        "number_of_student": 18375,
+        "level": 4,
+        "url": "https://via.placeholder.com/600/56acb2",
+        "thumbnailUrl": "https://via.placeholder.com/150/56acb2"
+    },
+    {
+        "id": 20,
+        "course_name": "HTML, CSS, Javascript for the Web Developers",
+        "instructor_name": "Hyacintha Fuzzard",
+        "rating": 2.8,
+        "price": 58.11,
+        "number_of_student": 37127,
+        "level": 1,
+        "url": "https://via.placeholder.com/600/8985dc",
+        "thumbnailUrl": "https://via.placeholder.com/150/8985dc"
+    }
+]

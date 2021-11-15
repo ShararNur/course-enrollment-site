@@ -1,0 +1,10 @@
+.main-section {
+  display: flex;
+}
+.course-list {
+  width: 67%;
+  border-right: 1px solid lightgrey;
+}
+.price-cart {
+  width: 33%;
+}
